@@ -1,0 +1,252 @@
+
+
+.number{
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+    color: aliceblue;
+    
+    
+}
+.clock{
+    width: 500px;
+    height: 500px;
+    background-image: url('6.jpg');
+    
+    
+    border-radius: 50%;
+    border: 2px solid black;
+    position: relative;
+    /* margin-left: 400px; 
+    margin-top: 100px; */
+    margin: auto;
+    top:39px;
+}
+.point{
+    width: 20px;
+    height: 20px;
+     background-color:white; 
+    border-radius: 50%;
+    position: absolute;
+    top: 240px;
+    left: 240px;
+}
+/* .clock .number{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center; */
+    
+
+
+
+.num1{
+    /* position: absolute; */
+    right:130px;
+    top: 40px;
+}
+.num2{
+    /* position: absolute; */
+    right:45px;
+top: 125px;
+}
+.num3{
+    /* position: absolute; */
+    right:10px;
+    top: 235px;
+}
+.num4{
+    /* position: absolute; */
+    left:460px;
+    top: 330px;
+}
+.num5{
+    /* position: absolute; */
+    right:100px;
+    top: 420px;
+}
+.num6{
+    /* position: absolute; */
+    right: 230px;
+    bottom: 10px;
+}
+.num7{
+    /* position: absolute; */
+    left:120px;
+    top: 425px;
+}
+.num8{
+    /* position: absolute; */
+    left:35px;
+    top: 325px;
+}
+.num9{
+    /* position: absolute; */
+    left:20px;
+    top: 220px;
+}
+.num10{
+    /* position: absolute; */
+    left:35px;
+    top: 120px;
+}
+.num11{
+    /* position: absolute; */
+    left:120px;
+    top: 40px;
+}
+.num12{
+    /* position: absolute; */
+
+    left: 230px;
+    top: 5px;
+}
+.min-hand{
+    width: 400px;
+    height: 400px;
+    /* background-color: aliceblue; */
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 50%;
+    
+}
+/* .min-arrow{
+    font-size: 30px;
+    /* font-weight: bold; */
+    /* color:white;
+    transform: rotate(180deg);
+    margin-top: -20px;
+    margin-left: 9px;
+}
+.sec-hand{
+    width: 2px;
+    height: 200px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 193px;
+    top: 70px;
+    
+}
+.sec-arrow{
+    font-size: 30px;
+    /* font-weight: bold; */
+    /* color:white;
+    transform: rotate(180deg);
+    margin-top: -20px;
+    margin-left: 9px;
+}
+.hour-hand{
+    width: 1px;
+    height: 130px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 215px;
+    top: 70px;
+    transform: rotate(200deg); */
+
+    
+ 
+.mh{
+    position: relative;
+
+
+}
+.mh .min1{
+    width: 4px;
+    height: 200px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 200px;
+
+}
+.mh .min-arrow{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+    transform: rotate(180deg);
+    position: absolute;
+    left:-6px;
+    top:-10px;
+}
+
+
+
+.mh{
+    position: relative;
+
+
+}
+.mh .min1{
+    width: 4px;
+    height: 200px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 200px;
+
+}
+.mh .min-arrow{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+    transform: rotate(180deg);
+    position: absolute;
+    left:-6px;
+    top:-10px;
+}
+.hour-hand{
+    width: 300px;
+    height: 300px;
+    /* background-color: aliceblue; */
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border-radius: 50%;
+    
+}
+.hr{
+    position: relative;
+
+
+}
+.hr .hour1{
+    width: 4px;
+    height: 150px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 148px;
+
+}
+.hr .hour-arrow{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+    transform: rotate(180deg);
+    position: absolute;
+    left:-6px;
+    top:-10px;
+}
+
+.sec-hand{
+    width: 350px;
+    height: 350px;
+    /* background-color: aliceblue; */
+    position: absolute;
+    left: 75px;
+    top: 75px;
+    border-radius: 50%;
+    
+}
+.sh{
+    position: relative;
+
+
+}
+.sh .sec1{
+    width: 2px;
+    height: 175px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 174px;
+
+}
